@@ -13,7 +13,7 @@
 ![Encoder](images/Enc.png)
 2. **Decoder**: Reconstructs images from latent vectors through upsampling layers and tanh activation, trained with combined L1 and perceptual losses to preserve sharp features and semantic consistency. 
 ![Decoder](images/Dec.png)
-3. **U-Net Discriminator**: Integrates both a global score for distinguishing between real and fake samples, and a PatchGAN output at the final layer with sigmoid activation which help capture both local and global features effectively.
+3. **U-Net Discriminator**: Integrates both a global score for distinguishing between real and fake samples, and a PatchGAN output at the final layer with sigmoid activation which help capture both local and global features effectively.
 ![Discriminator](images/Disc.png)
 4. **Balanced Losses**:  Ensures high-level semantic consistency
    - Adversarial loss (GAN)  
