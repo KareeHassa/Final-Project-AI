@@ -1,4 +1,4 @@
-# VAE-GAN with U-Net Discriminator
+# VAE-GAN with U-Net Discriminator -
 
 ![Generated Faces](images/Final2.png)
 
