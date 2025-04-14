@@ -22,7 +22,7 @@
 ### Reconstruction Comparison
 | Original | Reconstructed |  
 |----------|---------------|  
-| ![Original](images\Original.png) | ![Reconstructed](Reconstructed.png) |  
+| ![Original]([images\Original.png](https://github.com/KareeHassa/Final-Project-AI/blob/main/images/Original.png?raw=true)) | ![Reconstructed](Reconstructed.png) |  
 
 
 ### Generated Samples
