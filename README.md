@@ -22,22 +22,11 @@
 ### Reconstruction Comparison
 | Original | Reconstructed |  
 |----------|---------------|  
-| ![Original](Original.png) | ![Reconstructed](Reconstructed.png) |  
+| ![Original](images\Original.png) | ![Reconstructed](Reconstructed.png) |  
 
-**Improvements**:  
-- 30% sharper edges vs MSE (L1 loss)  
-- Better identity preservation  
 
 ### Generated Samples
 ![Generated Faces](Grid.png)  
 - High diversity with minimal artifacts  
 - Stable training (no mode collapse)  
 
-## Citation
-```text
-@misc{yourproject2023,
-  title = {VAE-GAN with U-Net Discriminator},
-  author = {Your Name},
-  year = {2023},
-  url = {https://github.com/yourusername/repo}
-}
