@@ -1,6 +1,6 @@
 # VAE-GAN with U-Net Discriminator
 
-![Generated Faces](Grid.png)
+![Generated Faces](images/Final2.png)
 
 ## Key Features
 - **U-Net Discriminator**: Skip connections enable multi-scale feedback for fine facial details  
