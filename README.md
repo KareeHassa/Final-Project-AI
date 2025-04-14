@@ -9,20 +9,22 @@
 
 ## Architecture
 ### Hybrid Framework
-1. **VAE Encoder**: Structured latent space with KL-divergence  
-2. **U-Net Discriminator**: Pixel-wise realism maps via skip connections  
-3. **Balanced Losses**:  
+1. **Encoder**: Structured latent space with KL-divergence  
+![Encoder](images/Enc.png)
+2. **Decoder**
+![Decoder](images/Dec.png)
+3. **U-Net Discriminator**: Pixel-wise realism maps via skip connections  
+![Discriminator](images/Disc.png)
+4. **Balanced Losses**:  
    - Adversarial loss (GAN)  
    - L1 reconstruction (λ=100)  
    - Perceptual loss (λ=0.3)  
-
-*(See report Figure 2 for detailed encoder/decoder diagrams)*  
 
 ## Results
 ### Reconstruction Comparison
 ### Original 
 ![Original](images/Original.png) 
-### Reconstructed | 
+### Reconstructed 
 ![Reconstructed](images/Reconstructed.png)   
 
 
