@@ -1,1 +1,1 @@
-# Final_Project_AI
+# VAE-GAN with U-Net Discriminator for High-Quality Face Generation
