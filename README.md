@@ -20,9 +20,10 @@
 
 ## Results
 ### Reconstruction Comparison
-| Original | Reconstructed |  
-|----------|---------------|  
-| ![Original](images/Original.png) | ![Reconstructed](images/Reconstructed.png) |  
+| Original 
+| ![Original](images/Original.png) 
+| Reconstructed | 
+![Reconstructed](images/Reconstructed.png) |  
 
 
 ### Generated Samples
