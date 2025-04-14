@@ -9,7 +9,7 @@
 
 ## Architecture
 ### Hybrid Framework
-1. **VAE Encoder**: Ensures that the image is not derived from a purely random latent dimension but instead encapsulates probabilistic features that help maintain consistency with the training image dataset. 
+1. **VAE Encoder**: Ensures that the image is not derived from a purely random latent dimension but instead encapsulates probabilistic features that help maintain consistency with the training image dataset. 
 ![Encoder](images/Enc.png)
 2. **Decoder**: Reconstructs images from latent vectors through upsampling layers and tanh activation, trained with combined L1 and perceptual losses to preserve sharp features and semantic consistency. 
 ![Decoder](images/Dec.png)
