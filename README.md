@@ -27,7 +27,7 @@
 
 
 ### Generated Samples
-![Generated Faces](Grid.png)  
+![Generated Faces](images/Grid.png)  
 - High diversity with minimal artifacts  
 - Stable training (no mode collapse)  
 
