@@ -22,7 +22,7 @@
 ### Reconstruction Comparison
 | Original | Reconstructed |  
 |----------|---------------|  
-| ![Original]([images/Original.png) | ![Reconstructed](images/Reconstructed.png) |  
+| ![Original](images/Original.png) | ![Reconstructed](images/Reconstructed.png) |  
 
 
 ### Generated Samples
